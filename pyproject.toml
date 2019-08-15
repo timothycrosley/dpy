@@ -16,4 +16,4 @@ classifiers=[
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Utilities",
 ]
-requires = ["hug", "mkdocs", "pdocs3"]
+requires = ["hug", "mkdocs", "pdoc3"]
